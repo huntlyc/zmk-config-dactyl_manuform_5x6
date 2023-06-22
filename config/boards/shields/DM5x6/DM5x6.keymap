@@ -18,7 +18,7 @@ default_layer {
                 &kp ESC     &kp A  &kp S  &kp D  &kp F  &kp G               &kp H  &kp J  &kp K     &kp L   &kp SEMI &kp SQT
                 &kp LSHFT   &kp Z  &kp X  &kp C  &kp V  &kp B               &kp N  &kp M  &kp COMMA &kp DOT &kp FSLH &kp RSHFT
                                  &kp GRAVE &kp NUBS                              &kp LBKT &kp RBKT
-                                            &kp BSPC  &kp DEL                &kp RET    &kp SPC
+                                            &kp BSPC  &kp DEL                &kp RET    &kp SPACE
                                                 &mo RSE &kp LALT     &kp RCTRL  &kp PAGE_UP
                                                 &mo LWR &kp LCMD     &mo RSE &kp PAGE_DOWN
                                       
