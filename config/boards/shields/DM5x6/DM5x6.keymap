@@ -21,7 +21,7 @@ default_layer {
                                    &kp GRAVE &kp NUBS                                            &kp LBKT  &kp RBKT
                                                     &kp BSPC &kp DEL          &kp RET &kp SPACE
                                                       &kp LCTRL &kp LALT    &kp RCTRL &kp PAGE_UP
-                                                      &mo LWR   &kmo RSE    &kp LCMD  &kp PAGE_DOWN
+                                                      &mo LWR   &mo RSE    &kp LCMD  &kp PAGE_DOWN
                                       
             >;
         };
